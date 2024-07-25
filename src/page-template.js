@@ -1,3 +1,5 @@
+// module.exports = templateData => {
+//   console.log(templateData);
 const generatePage = (name, github) => {
     return `
     <!DOCTYPE html> 
